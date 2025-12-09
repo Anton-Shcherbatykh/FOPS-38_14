@@ -5,7 +5,7 @@
 
 Создайте в своём репозитории каталог ```branching``` и в нём два файла — ```merge.sh``` и ```rebase.sh``` — с содержимым:
 
-```
+```bash
 #!/bin/bash
 # display command line options
 
