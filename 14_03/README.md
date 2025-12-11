@@ -265,6 +265,10 @@ Fast-forward
 ![alt text](Pictures/Pict01_2.jpg)
 
 #### Подготовка файла merge.sh
-**Шаг 1.** Создал ветку git-merge
+**Шаг 1.** Создал ветку ```git-merge```
 
 ![alt text](Pictures/Pict03_1.jpg)
+
+**Шаг 2.** Заменил в ней содержимое файла ```merge.sh```
+
+![alt text](Pictures/Pict03.jpg)
