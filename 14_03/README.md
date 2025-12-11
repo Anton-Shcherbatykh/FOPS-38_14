@@ -267,4 +267,4 @@ Fast-forward
 #### Подготовка файла merge.sh
 **Шаг 1.** Создал ветку git-merge
 
-
+![alt text](Pictures/Pict03_1.jpg)
