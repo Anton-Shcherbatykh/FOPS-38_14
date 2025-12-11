@@ -259,3 +259,7 @@ Fast-forward
 ### Решение 1
 **Шаг 1.** Создал каталог branching и файлы merge.sh и rebase.sh
 ![alt text](Pictures/Pict01_1.jpg)
+
+с содержимым
+
+![alt text](Pictures/Pict01_2.jpg)
