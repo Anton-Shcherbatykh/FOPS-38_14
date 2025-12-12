@@ -298,3 +298,12 @@ ________________________________________________________________________________
 **Шаг 3.** Отправил изменения в ветку main:
 
 ![alt text](Pictures/Pictures07.jpg)
+
+
+#### Подготовка файла rebase.sh
+
+**Шаг 1.** С помощью команды git log нахожу хеш коммита ```prepare for merge and rebase``` и выполняю ```git checkout``` на него:
+
+![alt text](Pictures/Pictures08.jpg)
+
+![alt text](Pictures/Pictures09.jpg)
