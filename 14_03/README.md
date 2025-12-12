@@ -273,21 +273,27 @@ ________________________________________________________________________________
 
 **Шаг 2.** Заменил в ней содержимое файла ```merge.sh``` согласно заданию
 
-![alt text](Pictures/Pict03.jpg)
+![alt text](Pictures/Pictures03.jpg)
 
 **Шаг 3.** Создал коммит "merge: @ instead *" и запушил изменения в репозиторий:
 
-![alt text](Pictures/Pict04.jpg)
+![alt text](Pictures/Pictures04.jpg)
 
 **Шаг 4.** Вношу ещё одни изменения в файл ```merge.sh```
 
 **Шаг 5.** Создаю коммит ```merge: use shift``` и отправляю изменения в репозиторий:
 
-![alt text](Pictures/Pict05.jpg)
+![alt text](Pictures/Pictures05.jpg)
 
 Изменим ```main```
 **Шаг 1.** Вернулся в ветку ```main```. 
 
+![alt text](Pictures/Pictures06.jpg)
 
+**Шаг 2.** Изменил содержимое файла rebase.sh
 
-**Шаг 2.** Предположим, что пока мы работали над веткой git-merge, кто-то изменил main. Для этого изменим содержимое файла rebase.sh на:
+![alt text](Pictures/Pictures07_1.jpg)
+
+**Шаг 3.** Отправил изменения в ветку main:
+
+![alt text](Pictures/Pictures07.jpg)
