@@ -308,3 +308,23 @@ ________________________________________________________________________________
 ![alt text](Pictures/Pictures08.jpg)
 
 ![alt text](Pictures/Pictures09.jpg)
+
+**Шаг 2.** Создаю ветку git-rebase, основываясь на текущем коммите
+
+![alt text](Pictures/Pictures010.jpg)
+
+**Шаг 3.** Изменяю содержимое файла ```rebase.sh``` на следующее:
+
+![alt text](Pictures/Pictures011.jpg)
+
+**Шаг 4.** Отправим эти изменения в ветку ```git-rebase``` с комментарием ```git-rebase 1```.
+
+![alt text](Pictures/Pictures012.jpg)
+
+**Шаг 5.** И сделаем ещё один коммит ```git-rebase 2``` с пушем, заменив ```echo "Parameter: $param"``` на ```echo "Next parameter: $param"```.
+
+![alt text](Pictures/Pictures013.jpg)
+
+#### Промежуточный итог
+
+Проверил, что у меня получилось на network странице по ссылке
