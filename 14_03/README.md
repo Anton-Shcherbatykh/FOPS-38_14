@@ -304,6 +304,7 @@ ________________________________________________________________________________
 
 **Шаг 1.** С помощью команды git log нахожу хеш коммита ```prepare for merge and rebase``` и выполняю ```git checkout``` на него:
 
+
 ![alt text](Pictures/Pictures08.jpg)
 
 ![alt text](Pictures/Pictures09.jpg)
